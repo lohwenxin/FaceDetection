@@ -6,14 +6,18 @@ This project is a DIY Face Detection that can detect faces, guage their expressi
 ![Screenshot](images/Sad_Angry.JPG)
 
 
+
 ## Installation
 1. Open the project in VS code
 2. Ensure that you have installed the Live Server extension in VS code. Right click on index.html and click on 'Open With Live Server'
+
 ![Screenshot](images/OpenWithLiveServer.png)
+
 
 
 ## Technology Stack
 This project was built with Javascript. It uses the [face-api library](https://github.com/justadudewhohacks/face-api.js) by [justadudewhohacks](https://github.com/justadudewhohacks).
+
 
 
 ## Developer's Thoughts
